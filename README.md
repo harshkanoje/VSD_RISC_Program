@@ -12,7 +12,14 @@ $ yosys -V
 ouput :
 
 ```
-Yosys 0.57+153 (git sha1 d60dc93e9, g++ 13.3.0-6ubuntu2~24.04 -fPIC -O3)
+
+ /----------------------------------------------------------------------------\
+ |  yosys -- Yosys Open SYnthesis Suite                                       |
+ |  Copyright (C) 2012 - 2025  Claire Xenia Wolf <claire@yosyshq.com>         |
+ |  Distributed under an ISC-like license, type "license" to see terms        |
+ \----------------------------------------------------------------------------/
+ Yosys 0.57+153 (git sha1 d60dc93e9, g++ 13.3.0-6ubuntu2~24.04 -fPIC -O3)
+
 
 ```
 ## Iverilog
