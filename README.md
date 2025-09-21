@@ -1,8 +1,7 @@
-# VSD_RISC_Program
 
-Day 0 - Tools Installation 
+
 	
-# Day 0 - Tools Installation
+# Week 0 - Tools Installation
 ## Yosys
 
 - Purpose: Open-source framework for RTL synthesis (mainly Verilog).
