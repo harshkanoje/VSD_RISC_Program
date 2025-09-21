@@ -5,6 +5,9 @@
 	
 # Day 0 - Tools Installation
 ## Yosys
+
+- Purpose: Open-source framework for RTL synthesis (mainly Verilog).
+
 ```
 $ yosys -V
 ```
@@ -15,6 +18,9 @@ Yosys 0.57+153 (git sha1 d60dc93e9, g++ 13.3.0-6ubuntu2~24.04 -fPIC -O3)
 
 ```
 ## Iverilog
+
+Purpose: Simulator for Verilog HDL.
+
 ```
 $ sudo apt-get install iverilog
 $ iverilog -V
@@ -98,6 +104,9 @@ Copyright (c) 2001-2021 Stephen Williams (steve@icarus.com)
 ```
 
 ## GTKWave
+
+purpose : to check waveforms and visualize vcd file 
+
 ```
 $ sudo apt update
 $ sudo apt install gtkwave
