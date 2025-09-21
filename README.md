@@ -1,6 +1,6 @@
 # VSD_RISC_Program
 
-<details>
+
 	<summary>Day 0 - Tools Installation </summary>
 	
 # Day 0 - Tools Installation
@@ -121,4 +121,4 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ```
-</details>
+
