@@ -1,7 +1,6 @@
 # VSD_RISC_Program
 
-
-	<summary>Day 0 - Tools Installation </summary>
+Day 0 - Tools Installation 
 	
 # Day 0 - Tools Installation
 ## Yosys
