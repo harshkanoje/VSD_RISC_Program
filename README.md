@@ -1,7 +1,9 @@
+<details>
 
+<summary>	
+ Day - 0  Tools Installation
+</summary>
 
-	
-# Week 0 - Tools Installation
 ## Yosys
 
 - Purpose: Open-source framework for RTL synthesis (mainly Verilog).
@@ -126,4 +128,23 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
 ```
+</details>
 
+
+<details>
+	<summary>Day - 1 Intro to Verilog RTL and Sysnthesis</summary>
+
+ ## Basics
+ Understanding Simulator an cmd terimnal prompts
+ 
+ Simulator--> Making framework adhering to required specs
+ Testbenched --> to apply stimulus to design to check its functionality
+
+from both these, we obtain a VCD file which can be visulaized using GTK Wave
+<Img>
+
+ 
+ Synthesizer --> Tool for converting RTL to Netlist
+ 
+
+</details>
