@@ -145,6 +145,14 @@ from both these, we obtain a VCD file which can be visulaized using GTK Wave
 
  
  Synthesizer --> Tool for converting RTL to Netlist
- 
+
+# Workflow Steps
+## 1. RTL Synthesis
+
+Input: RTL (typically Verilog) source code is provided as the starting point for digital logic design.
+Tool: Yosys performs synthesis to generate a gate-level netlist—essentially a mapping from RTL logic to basic gates
+
+ <img width="575" alt="yosys" src="https://github.com/harshkanoje/VSD_RISC_Program/img1.png">
+
 
 </details>
