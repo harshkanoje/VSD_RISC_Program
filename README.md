@@ -152,7 +152,7 @@ from both these, we obtain a VCD file which can be visulaized using GTK Wave
 Input: RTL (typically Verilog) source code is provided as the starting point for digital logic design.
 Tool: Yosys performs synthesis to generate a gate-level netlist—essentially a mapping from RTL logic to basic gates
 
- <img width="575" alt="yosys" src="https://github.com/harshkanoje/VSD_RISC_Program/blob/main/im1">
+ <img width="575" alt="yosys" src="https://github.com/harshkanoje/VSD_RISC_Program/blob/main/Images/im1">
 
  .lib liberty file specifically as libsky130fdschdtt025C1v80.lib, which is used in the technology mapping stage of the RTL to physical design flow. This file allows synthesis and mapping tools such as Yosys and abc cmd to assign synthesized logic to actual physical library cells present in the Skywater SKY130 PDK
 
@@ -188,7 +188,7 @@ Once optimization and technology mapping were complete, temporary directories as
 
 Final verification involved issuing the `Yosys > show` command, which is used to generate a visual representation of the resulting netlist 
 
- <img width="575" alt="yosys" src="https://github.com/harshkanoje/VSD_RISC_Program/blob/main/im4.png">
+ <img width="575" alt="yosys" src="https://github.com/harshkanoje/VSD_RISC_Program/blob/main/Images/im4.png">
 
 ## 5. Visual Documentation 
 
@@ -205,7 +205,7 @@ This image is the direct output of the `Yosys > show` command [1]. It must visua
 ### 5.3. Standard Cell Context (Recommended)
 A schematic or layout view of the **`sky130_fd_sc_hd__mux2_1`** cell included to provide technological depth regarding the physical implementation of the logic .
 
- <img width="575" alt="yosys" src="https://github.com/harshkanoje/VSD_RISC_Program/blob/main/im6.png">
+ <img width="575" alt="yosys" src="https://github.com/harshkanoje/VSD_RISC_Program/blob/main/Images/im6.png">
 
 
 
